@@ -8,6 +8,7 @@ Using the breadth-first-search (BFS) algorithm and SDL2 I managed to create an i
 **RIGHT MOUSE CLICK** = set a black square ('wall' square).  
 **R key** = reset the playground.  
 
+*The demo could look a bit distorted because of the gif quality*
 ![Demo](https://media.giphy.com/media/L1cjGuzu6HcihqomV0/giphy.gif)
 
 *You will need to install SDL2 for this project if you want to build it yourself (the SDL2 files were to large to be uploaded to git).*
